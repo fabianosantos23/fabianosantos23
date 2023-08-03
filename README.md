@@ -29,3 +29,4 @@ Sou apaixonado por cinema e tecnologia, e adoro unir essas duas paixões em proj
 
 - Email: fabianojunior77@gmail.com
 - WhatsApp / Celular: [(31) 9 9579-0332](https://api.whatsapp.com/send?phone=5531995790332&text=Ol%C3%A1!%20Vi%20seu%20perfil%20no%20Github%20e%20preciso%20conversar%20com%20voc%C3%AA.)
+- Discord: [JUB#0294](https://discord.com/users/Jub#0294)
