@@ -25,6 +25,10 @@
 
 Sou apaixonado por cinema e tecnologia, e adoro unir essas duas paixões em projetos. Nos meus momentos de lazer, você me encontrará explorando novos jogos, assistindo filmes e séries, e constantemente buscando aprender coisas novas!
 
+### Contador de visitas
+
+![Visitor Count](https://profile-counter.glitch.me/{fabianosantos23}/count.svg)
+
 ## Contato
 
 - Email: fabianojunior77@gmail.com
