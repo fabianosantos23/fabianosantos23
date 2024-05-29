@@ -6,7 +6,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/fabiano.santos2323/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fabiano.santos77/)
 
-[![Fabiano GitHub stats](https://github-readme-stats.vercel.app/api?username=fabianosantos23&show_icons=true&theme=highcontrast)](https://github.com/fabianosantos23)
+![Fabiano GitHub stats](https://github-readme-stats-jo5yccs5y-fabianosantos23.vercel.app/api?username=fabianosantos23&show_icons=true&theme=highcontrast)
 
 ### Tecnologias que uso no dia a dia
 
