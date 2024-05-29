@@ -10,7 +10,7 @@
 
 ### Tecnologias que uso no dia a dia
 
-![Top Langs](github-readme-stats-two-sepia-64.vercel.app/api/top-langs/?username=fabianosantos23&size_weight=0.5&count_weight=0.5)
+![Top Langs](github-readme-stats-two-sepia-64.vercel.app/api/top-langs?username=fabianosantos23&size_weight=0.5&count_weight=0.5)
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
