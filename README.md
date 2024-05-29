@@ -6,11 +6,11 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/fabiano.santos2323/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fabiano.santos77/)
 
-![Fabiano GitHub stats](https://github-readme-stats-jo5yccs5y-fabianosantos23.vercel.app/api?username=fabianosantos23&show_icons=true&theme=highcontrast)
+![Fabiano GitHub stats](https://github-readme-stats-two-sepia-64.vercel.app/api?username=fabianosantos23&show_icons=true&theme=highcontrast)
 
 ### Tecnologias que uso no dia a dia
 
-![Top Langs](https://github-readme-stats-jo5yccs5y-fabianosantos23.vercel.app/api/top-langs/?username=fabianosantos23&size_weight=0.5&count_weight=0.5)
+![Top Langs](github-readme-stats-two-sepia-64.vercel.app/api/top-langs/?username=fabianosantos23&size_weight=0.5&count_weight=0.5)
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
